@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Game/Scenes/Pong.unity
-  isLoaded: 1
-  isActive: 1
